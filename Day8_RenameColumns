@@ -44,7 +44,7 @@ Explanation:
 The column names are changed accordingly.
 
 
-SolutionS:-
+</>CODE :-
 import pandas as pd
 
 def renameColumns(students: pd.DataFrame) -> pd.DataFrame:
